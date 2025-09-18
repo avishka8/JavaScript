@@ -53,11 +53,11 @@ console.log(fac);
 
 // json api syntax in object
 
-{
-    "name":"avishka",
-    "channel":"avtv",
-    "github":"avishka8"
-}
+//{
+  //  "name":"avishka",
+  //  "channel":"avtv",
+  //  "github":"avishka8"
+//}
 
 // json api syntax in array 
 
